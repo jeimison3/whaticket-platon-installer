@@ -8,7 +8,7 @@ Firstly, you need to download it:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/igorzeni/whaticket-installer.git
+git clone https://github.com/jeimison3/whaticket-platon-installer.git
 ```
 
 Now, all you gotta do is making it executable:
